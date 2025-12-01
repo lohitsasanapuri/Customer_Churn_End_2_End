@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/lohit/Desktop/WorkSpace/customer_churn_ml_end_to_end/notebooks/../mlruns/328564668762139255/models/m-e2655f75ee9a490ab154aef6b4cfbe19/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.11.13
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.1.2
+mlflow_version: 3.6.0
+model_id: m-e2655f75ee9a490ab154aef6b4cfbe19
+model_size_bytes: 510017
+model_uuid: m-e2655f75ee9a490ab154aef6b4cfbe19
+prompts: null
+run_id: 7da94ff3901347bbae27ee934de5c297
+utc_time_created: '2025-12-01 04:38:00.369807'

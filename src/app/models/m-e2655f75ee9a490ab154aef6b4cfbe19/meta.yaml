@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/lohit/Desktop/WorkSpace/customer_churn_ml_end_to_end/notebooks/../mlruns/328564668762139255/models/m-e2655f75ee9a490ab154aef6b4cfbe19/artifacts
+creation_timestamp: 1764563880143
+experiment_id: '328564668762139255'
+last_updated_timestamp: 1764563900754
+model_id: m-e2655f75ee9a490ab154aef6b4cfbe19
+model_type: null
+name: ' model'
+source_run_id: 7da94ff3901347bbae27ee934de5c297
+status: 2
+status_message: null

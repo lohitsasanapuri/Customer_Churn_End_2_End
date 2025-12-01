@@ -1,0 +1,9 @@
+# Ignore Env Files
+.ml_clf_end_to_end
+# ignore Data Files
+data/raw/*
+data/processed/*
+data/external/*
+mlruns/
+./artifacts/
+.github

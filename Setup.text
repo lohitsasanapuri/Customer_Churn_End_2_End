@@ -1,0 +1,5 @@
+Creating Env and installing the requirements
+ python3.11 -m venv .ml_clf_end_to_end
+ .\.ml_clf_end_to_end\Scripts\Activate
+ python.exe -m pip install --upgrade pip
+ uv pip install -r requirements.txt
